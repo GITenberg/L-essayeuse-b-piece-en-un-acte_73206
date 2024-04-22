@@ -1,5 +1,8 @@
 _repo: L-essayeuse-b-piece-en-un-acte_73206
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73206-h/images/cover.jpg
 creator:
   author:
     agent_name: Veber, Pierre
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pierre_Veber
     - https://fr.wikipedia.org/wiki/Pierre_Veber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73206#L-essayeuse-b-piece-en-un-acte
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
